@@ -1,5 +1,5 @@
 # Recomendación de imagenes 
-Este proyecto permite recomendar imagenes de ropa, para ello a partir de una imagen previamente seleccionada se tienen que buscar y mostrar imagenes similares que serán las recomendaciones de productos similares.
+Este proyecto permite recomendar imagenes de ropa, para ello a partir de una imagen previamente seleccionada se tienen que buscar y mostrar imagenes que serán las recomendaciones de productos similares.
 
 Los datos han sido obtenidos de:
 
